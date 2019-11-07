@@ -46,6 +46,10 @@ page 50101 "MyTable Card"
                     ApplicationArea = All;
                     Editable = false;
                 }
+                field(CreatedBy; CreatedBy)
+                {
+                    ApplicationArea = All;
+                }
             }
         }
     }

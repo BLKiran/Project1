@@ -63,6 +63,10 @@ table 50100 MyTable
             DataClassification = CustomerContent;
 
         }
+        field(7; CreatedBy; Text[50])
+        {
+            DataClassification = CustomerContent;
+        }
 
     }
 
