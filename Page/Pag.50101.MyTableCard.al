@@ -50,6 +50,10 @@ page 50101 "MyTable Card"
                 {
                     ApplicationArea = All;
                 }
+                field(lastModifiedBY; lastModifiedBY)
+                {
+                    ApplicationArea = All;
+                }
             }
         }
     }

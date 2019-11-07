@@ -67,6 +67,10 @@ table 50100 MyTable
         {
             DataClassification = CustomerContent;
         }
+        field(8; lastModifiedBY; Text[50])
+        {
+            DataClassification = CustomerContent;
+        }
 
     }
 
