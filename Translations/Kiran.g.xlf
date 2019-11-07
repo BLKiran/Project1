@@ -1,0 +1,319 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Kiran">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 2328808854 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MyTable - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2328808854 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MyTable - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2328808854 - Field 1994964448 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MyTable - Field Customer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2328808854 - Field 1881986821 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CustomerName</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MyTable - Field CustomerName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2328808854 - Field 2076807096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CustomerType</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MyTable - Field CustomerType - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2328808854 - Field 1700636635 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DateofEntry</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MyTable - Field DateofEntry - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 978578900 - Control 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MyTable List - Control Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3331662290 - Control 1994964448 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MyTable Card - Control Customer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3331662290 - Control 1881986821 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MyTable Card - Control CustomerName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3331662290 - Control 2076807096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MyTable Card - Control CustomerType - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3331662290 - Control 1700636635 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date of Entry</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MyTable Card - Control DateofEntry - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1714297407 - Control 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of the involved entry or record, according to the specified number series.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sales Header List Customised - Control No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1714297407 - Control 1225278069 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of the customer.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sales Header List Customised - Control Sell-to Customer No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1714297407 - Control 1474036805 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the name of the customer.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sales Header List Customised - Control Sell-to Customer Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1714297407 - Control 1527563463 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies a document number that refers to the customer's or vendor's numbering system.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sales Header List Customised - Control External Document No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1714297407 - Control 709296807 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the postal code of the customer's main address.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sales Header List Customised - Control Sell-to Post Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1714297407 - Control 3434865006 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the country/region code of the customer's main address.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sales Header List Customised - Control Sell-to Country/Region Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1714297407 - Control 1006519668 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the name of the contact person at the customer's main address.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sales Header List Customised - Control Sell-to Contact - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1714297407 - Control 2965034906 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of the customer that you send or sent the invoice or credit memo to.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sales Header List Customised - Control Bill-to Customer No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1782485374 - Control 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Order No</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sales Header Customized Card - Control No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1782485374 - Control 1225278069 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Displays Customer No</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sales Header Customized Card - Control Sell-to Customer No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1782485374 - Control 3624777196 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Foreign Trade</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sales Header Customized Card - Control Foreign Trade - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1782485374 - Control 1267997203 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies a specification of the document's transaction, for the purpose of reporting to INTRASTAT.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sales Header Customized Card - Control Transaction Specification - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1782485374 - Control 3773776616 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the type of transaction that the document represents, for the purpose of reporting to INTRASTAT.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sales Header Customized Card - Control Transaction Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1782485374 - Control 3193866272 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the transport method, for the purpose of reporting to INTRASTAT.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sales Header Customized Card - Control Transport Method - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1782485374 - Control 2923940816 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the point of exit through which you ship the items out of your country/region, for reporting to Intrastat.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sales Header Customized Card - Control Exit Point - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1782485374 - Control 3532935625 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the area of the customer or vendor, for the purpose of reporting to INTRASTAT.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sales Header Customized Card - Control Area - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 133053306 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sales Line Customised - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3432279350 - Property 3863440606" size-unit="char" translate="yes" xml:space="preserve">
+          <source>payment due,order status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CustomerListNew - Property AdditionalSearchTerms</note>
+        </trans-unit>
+        <trans-unit id="Report 3432279350 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Detail Trial Balance</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CustomerListNew - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3432279350 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CustomerListNew - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3432279350 - Control 3214291206 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New Page per G/L Acc.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CustomerListNew - Control NewPageperGLAcc - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3432279350 - Control 3214291206 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if each G/L account information is printed on a new page if you have chosen two or more G/L accounts to be included in the report.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CustomerListNew - Control NewPageperGLAcc - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3432279350 - Control 3183705145 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Exclude G/L Accs. That Have a Balance Only</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CustomerListNew - Control ExcludeGLAccsHaveBalanceOnly - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3432279350 - Control 3183705145 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you do not want the report to include entries for G/L accounts that have a balance but do not have a net change during the selected time period.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CustomerListNew - Control ExcludeGLAccsHaveBalanceOnly - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3432279350 - Control 3201262307 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Include Closing Entries Within the Period</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CustomerListNew - Control InclClosingEntriesWithinPeriod - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3432279350 - Control 3201262307 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you want the report to include closing entries. This is useful if the report covers an entire fiscal year. Closing entries are listed on a fictitious date between the last day of one fiscal year and the first day of the next one. They have a C before the date, such as C123194. If you do not select this field, no closing entries are shown.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CustomerListNew - Control InclClosingEntriesWithinPeriod - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3432279350 - Control 3414096222 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Include Reversed Entries</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CustomerListNew - Control IncludeReversedEntries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3432279350 - Control 3414096222 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you want to include reversed entries in the report.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CustomerListNew - Control IncludeReversedEntries - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3432279350 - Control 4258595164 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Print Corrections Only</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CustomerListNew - Control PrintCorrectionsOnly - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3432279350 - Control 4258595164 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you want the report to show only the entries that have been reversed and their matching correcting entries.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CustomerListNew - Control PrintCorrectionsOnly - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3432279350 - ReportLabel 2020178030" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CustomerListNew - ReportLabel PostingDateCaption</note>
+        </trans-unit>
+        <trans-unit id="Report 3432279350 - ReportLabel 4204010505" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CustomerListNew - ReportLabel DocNoCaption</note>
+        </trans-unit>
+        <trans-unit id="Report 3432279350 - ReportLabel 567180089" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CustomerListNew - ReportLabel DescCaption</note>
+        </trans-unit>
+        <trans-unit id="Report 3432279350 - ReportLabel 3822561807" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CustomerListNew - ReportLabel VATAmtCaption</note>
+        </trans-unit>
+        <trans-unit id="Report 3432279350 - ReportLabel 326179949" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CustomerListNew - ReportLabel EntryNoCaption</note>
+        </trans-unit>
+        <trans-unit id="Report 3432279350 - NamedType 1327832897" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Period: %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CustomerListNew - NamedType Text000Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3432279350 - NamedType 3050590124" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Detail Trial Balance</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CustomerListNew - NamedType DetailTrialBalCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3432279350 - NamedType 650077689" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CustomerListNew - NamedType PageCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3432279350 - NamedType 1653612302" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This also includes general ledger accounts that only have a balance.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CustomerListNew - NamedType BalanceCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3432279350 - NamedType 2716332507" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This report also includes closing entries within the period.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CustomerListNew - NamedType PeriodCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3432279350 - NamedType 3034285687" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Only corrections are included.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CustomerListNew - NamedType OnlyCorrectionsCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3432279350 - NamedType 2171017903" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Net Change</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CustomerListNew - NamedType NetChangeCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3432279350 - NamedType 1557897815" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Debit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CustomerListNew - NamedType GLEntryDebitAmtCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3432279350 - NamedType 4073918050" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Credit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CustomerListNew - NamedType GLEntryCreditAmtCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3432279350 - NamedType 4271586908" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Balance</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CustomerListNew - NamedType GLBalCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2561243888 - Control 1706177334 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4178721393">
+          <source>Specifies Quantity on Production Order.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ItemListPage - Control Qty. on Prod. Order - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2561243888 - Control 1847463954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4178721393">
+          <source>Specifies Quantity on Production Order.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ItemListPage - Control Budget Quantity - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2561243888 - Control 2685983588 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4178721393">
+          <source>Specifies Budgeted Amount.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ItemListPage - Control Budgeted Amount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2561243888 - Control 2044151849 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4178721393">
+          <source>Specifies Cost of Goods Sold.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ItemListPage - Control COGS (LCY) - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2561243888 - Control 2790486453 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4178721393">
+          <source>Shows Comments Mentioned.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ItemListPage - Control Comment - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2561243888 - Control 2872944442 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4178721393">
+          <source>Production BOM Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ItemListPage - Control ProductionBOMLines - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
